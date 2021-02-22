@@ -5,7 +5,8 @@ Python Practice Engine is a learning tool that is meant to teach students Python
 
 ### Instructions on how to run Python Practice Engine locally
 1. Make sure you have `Node.JS` and `MySQL` downloaded on your computer
-2. Navigate to the back-end folder
+2. Clone the github repo with the command `git clone https://github.com/Python-Practice-Engine/src.git`
+3. Navigate to the back-end folder
    `cd src/back-end`
 3. In the root of the back-end folder create a file called `.env`
 4. Paste the following in the `.env` file
