@@ -21,7 +21,7 @@ REACT_APP_DATABASE=pythonlearning
 6. Run `npm install express`
 7. Run `node server.js`
 8. Navigate to the front-end folder
-   cd `src/front-end`
+   `cd ../front-end/`
 9. Run `npm install`
 10. Run `npm start`
 11. The application should be running in `localhost:3000` in your browser
