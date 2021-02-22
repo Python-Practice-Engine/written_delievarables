@@ -19,9 +19,10 @@ REACT_APP_DATABASE=pythonlearning
 ```
 5. Run `npm install`
 6. Run `npm install express`
-7. Install `npm i create-react-app`
-8. Run `npm start`
-9. Navigate to the front-end folder
+7. Run `node server.js`
+8. Install `npm i create-react-app`
+9. Run `npm start`
+10. Navigate to the front-end folder
    cd `src/front-end`
 10. Run `npm install`
 11. Run `npm start`
