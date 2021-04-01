@@ -19,7 +19,7 @@ REACT_APP_DATABASE=pythonlearning
 ```
 5. Run `npm install`
 6. Run `npm install express`
-7. Run `node server.js`
+7. Run `npm run devStart`
 8. Navigate to the front-end folder
    `cd ../front-end/`
 9. Run `npm install`
